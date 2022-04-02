@@ -1,3 +1,24 @@
+
+[![Go to data collection screenshots](https://img.shields.io/badge/corona-data-yellow)](https://github.com/DrakeRubicon/corona-screenshots-2022)
+[![Last commit](https://img.shields.io/github/last-commit/DrakeRubicon/corona-screenshots-2022)](https://github.com/DrakeRubicon/corona-screenshots-2022/commits/main)
+![GitHub repo size](https://img.shields.io/github/repo-size/DrakeRubicon/corona-screenshots-2022?label=Size)
+
+![Saxony](https://img.shields.io/badge/Saxony-14-brightgreen)
+
+![Chemnitz](https://img.shields.io/badge/Chemnitz-14711-blue)
+![Dresden](https://img.shields.io/badge/Dresden-14712-blue)
+![Leipzig](https://img.shields.io/badge/Leipzig-14713-blue)
+![Erzgebirgskreis](https://img.shields.io/badge/Erzgebirgskreis-14521-blue)
+![Mittelsachsen](https://img.shields.io/badge/Mittelsachsen-14522-blue)
+![Vogtlandkreis](https://img.shields.io/badge/Vogtlandkreis-14523-blue)
+![Zwickau](https://img.shields.io/badge/Zwickau-14524-blue)
+![Bauzen](https://img.shields.io/badge/Bauzen-14626-blue)
+![Meißen](https://img.shields.io/badge/Meißen-14627-blue)
+![Sächsische Schweiz-Osterzgebirge](https://img.shields.io/badge/Sächsische_Schweiz–Osterzgebirge-14628-blue)
+![Landkreis Leipzig](https://img.shields.io/badge/Landkreis_Leipzig-14729-blue)
+![Nordsachsen](https://img.shields.io/badge/Nordsachsen-14730-blue)
+
+
 # Sächsische Landkreise:
 
 | AGS   | Landkreis                         | Datenübersicht                                                                                                       | (Corona) Newscycle/Bekanntmachungen                                                                                                                                                                  |
